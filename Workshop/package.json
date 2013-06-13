@@ -1,0 +1,8 @@
+{
+    "name": "Node_Workshop",
+    "description": "Groupon Workshop on Node.js",
+    "version": "0.1.0",
+    "author": "Surendran",
+    "dependencies": {},
+    "devDependencies": {}
+}
